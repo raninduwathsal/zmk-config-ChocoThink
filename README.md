@@ -1,4 +1,4 @@
-# Example ZMK Config with PS/2 Mouse & TrackPoint Support
+willl change to remove trackpoint # Example ZMK Config with PS/2 Mouse & TrackPoint Support
 
 This is an example config for my [PS/2 Mouse & TrackPoint zmk module.](https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver/).
 
